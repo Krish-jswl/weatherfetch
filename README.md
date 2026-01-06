@@ -1,3 +1,4 @@
+
 # 🌤️ weatherfetch
 
 A simple, fast CLI tool to fetch current weather information directly in your terminal — inspired by tools like `neofetch` and `fastfetch`.
@@ -16,11 +17,10 @@ WeatherFetch focuses on **clarity, minimal output, and zero configuration**.
 
 ---
 
-## 🎥 Demo
+## 🖼️ Preview
 
-Click below to watch WeatherFetch in action:
+![WeatherFetch Preview](images/preview.png)
 
-[▶️ Watch demo video](demo/demo-vid.mp4)
 
 ---
 
@@ -32,4 +32,3 @@ Click below to watch WeatherFetch in action:
 git clone https://github.com/Krish-jswl/weatherfetch.git
 cd weatherfetch
 go build ./cmd/weatherfetch
-
