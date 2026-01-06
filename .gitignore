@@ -1,0 +1,19 @@
+# Binaries
+weatherfetch
+weatherfetch.exe
+
+# Go build artifacts
+*.out
+*.test
+
+# Go workspace file
+go.work
+
+# Editor / OS junk
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary files
+tmp/
+
